@@ -32,5 +32,3 @@ This repository contains my personal solutions for coding problems on [Kattis](h
 |[Take Two Stones](https://open.kattis.com/problems/twostones)|[Solution](https://github.com/deelonleem/Kattis-Solutions/blob/main/Codes/taketwostones.java)|
 |[Teque](https://open.kattis.com/problems/teque)|[Solution](https://github.com/deelonleem/Kattis-Solutions/blob/main/Codes/teque.java)|
 |[Weak Vertices](https://open.kattis.com/problems/weakvertices)|[Solution](https://github.com/deelonleem/Kattis-Solutions/blob/main/Codes/weakvertices.java)|
-  
-<\div>
