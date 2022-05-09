@@ -1,6 +1,8 @@
 # Kattis Solutions
 This repository contains my personal solutions for coding problems on the website https://open.kattis.com/. All solutions are written in Java. 
+
 <div align="center">
+  
 | Problem| My Solution |
 |:-------:|:----------:|
 |[Almost Union-Find](https://open.kattis.com/problems/almostunionfind)|[Solution](https://github.com/deelonleem/Kattis-Solutions/blob/main/Codes/almostunionfind.java)|
@@ -29,4 +31,5 @@ This repository contains my personal solutions for coding problems on the websit
 |[Take Two Stones](https://open.kattis.com/problems/twostones)|[Solution](https://github.com/deelonleem/Kattis-Solutions/blob/main/Codes/taketwostones.java)|
 |[Teque](https://open.kattis.com/problems/teque)|[Solution](https://github.com/deelonleem/Kattis-Solutions/blob/main/Codes/teque.java)|
 |[Weak Vertices](https://open.kattis.com/problems/weakvertices)|[Solution](https://github.com/deelonleem/Kattis-Solutions/blob/main/Codes/weakvertices.java)|
+  
 <\div>
