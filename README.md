@@ -1,5 +1,5 @@
 # Kattis Solutions
-This repository contains my personal solutions for coding problems on the website https://open.kattis.com/. 
+This repository contains my personal solutions for coding problems on [Kattis](https://open.kattis.com/). 
 <br >All solutions are written in Java. 
 
 <div align="center">
